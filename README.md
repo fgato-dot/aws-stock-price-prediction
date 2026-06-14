@@ -3,6 +3,12 @@
 
 An end-to-end machine learning pipeline built on AWS that ingests historical stock market data, trains LSTM neural networks, and delivers 18-month price forecasts through an interactive dashboard.
 
+## Dashboard
+
+![Stock Price Predictions](Stock%20Pr%20ML.png)
+
+
+
 ## 📌 Project Overview
 
 This project follows a cloud-native architecture to predict stock prices for 5 major equities:
